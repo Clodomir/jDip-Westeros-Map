@@ -201,7 +201,7 @@
         <PROVINCE fullname="Moat Cailin" shortname="mc">
                 <ADJACENCY type="mv" refs="ts, ff, gww, wh" />
                 <ADJACENCY type="wc" refs="bzb, ts, ff" />
-                <ADJACENCY type="ec" refs="bit, ts, gww-ec" />
+                <ADJACENCY type="ec" refs="bit, wh, gww-ec" />
         </PROVINCE>
         <PROVINCE fullname="Mid Narrow Sea" shortname="mns">
                 <ADJACENCY type="xc" refs="sns, sbb, bwb, nns, dra, sha, tar" />
